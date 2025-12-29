@@ -12,8 +12,8 @@
 - [x] Task: Implement state-checking logic (ensure agent looks for `conductor/product.md`) (42a87d8)
 - [x] Task: Conductor - User Manual Verification 'Protocol Implementation' (Protocol in workflow.md) (ee17bd2)
 
-## Phase 3: OpenSkills & AGENTS.md Integration
+## Phase 3: OpenSkills & AGENTS.md Integration [checkpoint: ecf0617]
 - [x] Task: Initialize `AGENTS.md` with OpenSkills XML tags (38445fb)
 - [x] Task: Add `openskills sync` instructions to the workflow/skill (ef8ca13)
-- [~] Task: Verify skill triggers via a simulated agent request
-- [ ] Task: Conductor - User Manual Verification 'Integration and Final Review' (Protocol in workflow.md)
+- [x] Task: Verify skill triggers via a simulated agent request (ecf0617)
+- [x] Task: Conductor - User Manual Verification 'Integration and Final Review' (Protocol in workflow.md) (ecf0617)
