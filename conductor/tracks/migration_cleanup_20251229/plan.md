@@ -4,7 +4,7 @@
 - [x] Task: Transcribe `setup.toml` into `references/setup_guide.md` (a96cca9)
 - [x] Task: Transcribe `newTrack.toml` into `references/track_guide.md` (cfed944)
 - [x] Task: Transcribe `implement.toml` into `references/implementation_guide.md` (8f2ce01)
-- [ ] Task: Transcribe `status.toml` and `revert.toml` into `references/maintenance_guide.md`
+- [x] Task: Transcribe `status.toml` and `revert.toml` into `references/maintenance_guide.md` (29fbe58)
 - [ ] Task: Conductor - User Manual Verification 'Logic Transcription' (Protocol in workflow.md)
 
 ## Phase 2: Master Skill Refinement
