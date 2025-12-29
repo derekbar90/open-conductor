@@ -3,7 +3,7 @@
 ## Phase 1: Universal Skill Scaffolding
 - [x] Task: Create skill directory structure `.agent/skills/conductor/references/` (a0c4beb)
 - [x] Task: Draft initial `SKILL.md` with YAML frontmatter (d3bcc9c)
-- [ ] Task: Implement "Discovery" instructions in `SKILL.md`
+- [x] Task: Implement "Discovery" instructions in `SKILL.md` (4713fc7)
 - [ ] Task: Conductor - User Manual Verification 'Universal Skill Scaffolding' (Protocol in workflow.md)
 
 ## Phase 2: Protocol Implementation
