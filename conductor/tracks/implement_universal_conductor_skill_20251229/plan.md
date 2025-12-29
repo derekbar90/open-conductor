@@ -6,11 +6,11 @@
 - [x] Task: Implement "Discovery" instructions in `SKILL.md` (4713fc7)
 - [x] Task: Conductor - User Manual Verification 'Universal Skill Scaffolding' (Protocol in workflow.md) (d774ffe)
 
-## Phase 2: Protocol Implementation
+## Phase 2: Protocol Implementation [checkpoint: ee17bd2]
 - [x] Task: Draft `references/protocol.md` with detailed Spec/Plan/Implement steps (08a2b72)
 - [x] Task: Add "Execution" instructions to `SKILL.md` linking to references (36eb30b)
 - [x] Task: Implement state-checking logic (ensure agent looks for `conductor/product.md`) (42a87d8)
-- [ ] Task: Conductor - User Manual Verification 'Protocol Implementation' (Protocol in workflow.md)
+- [x] Task: Conductor - User Manual Verification 'Protocol Implementation' (Protocol in workflow.md) (ee17bd2)
 
 ## Phase 3: OpenSkills & AGENTS.md Integration
 - [ ] Task: Initialize `AGENTS.md` with OpenSkills XML tags
