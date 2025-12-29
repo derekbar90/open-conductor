@@ -14,6 +14,6 @@
 
 ## Phase 3: Repository Cleanup
 - [x] Task: Delete legacy `commands/` directory (9e164a0)
-- [~] Task: Delete legacy `gemini-extension.json`
+- [x] Task: Delete legacy `gemini-extension.json` (9aafb90)
 - [ ] Task: Update `AGENTS.md` and run `openskills sync`
 - [ ] Task: Conductor - User Manual Verification 'Final Cleanup' (Protocol in workflow.md)
