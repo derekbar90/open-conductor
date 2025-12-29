@@ -8,7 +8,7 @@
 
 ## Phase 2: Protocol Implementation
 - [x] Task: Draft `references/protocol.md` with detailed Spec/Plan/Implement steps (08a2b72)
-- [ ] Task: Add "Execution" instructions to `SKILL.md` linking to references
+- [x] Task: Add "Execution" instructions to `SKILL.md` linking to references (36eb30b)
 - [ ] Task: Implement state-checking logic (ensure agent looks for `conductor/product.md`)
 - [ ] Task: Conductor - User Manual Verification 'Protocol Implementation' (Protocol in workflow.md)
 
