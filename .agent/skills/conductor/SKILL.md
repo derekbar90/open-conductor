@@ -49,6 +49,11 @@ For new features or bugs:
 2. Initialize `metadata.json`, `spec.md`, and `plan.md` within that folder.
 3. Update `conductor/tracks.md` with the new track entry.
 
+## OpenSkills Maintenance
+When you modify the Conductor skill or add new skills to the project:
+1. Run `openskills sync` to update the `AGENTS.md` file.
+2. This ensures all agents (Claude Code, Cursor, etc.) have access to the latest skill metadata.
+
 ## Getting Started
 When a user asks to "add a feature" or "fix a bug", you should activate this skill to guide them through the planning process.
 
