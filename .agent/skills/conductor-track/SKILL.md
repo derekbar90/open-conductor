@@ -1,7 +1,6 @@
 ---
 name: conductor-track
 description: Plans a track, generates track-specific spec documents and updates the tracks file. Use this when starting a new feature, bug fix, or project milestone.
-model: claude-3-flash-20241022
 ---
 
 ## 1.0 SYSTEM DIRECTIVE

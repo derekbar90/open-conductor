@@ -1,7 +1,6 @@
 ---
 name: conductor-maintenance
 description: Displays project status and reverts previous work using git-aware logic. Use this for project oversight or recovery.
-model: claude-3-flash-20241022
 ---
 
 ## 1.0 SYSTEM DIRECTIVE
