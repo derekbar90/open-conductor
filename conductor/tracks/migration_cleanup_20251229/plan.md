@@ -9,7 +9,7 @@
 
 ## Phase 2: Master Skill Refinement
 - [x] Task: Update `SKILL.md` with high-level routing to the new guides (201eb2a)
-- [ ] Task: Update `protocol.md` to reference assets in `assets/templates/`
+- [x] Task: Update `protocol.md` to reference assets in `assets/templates/` (522a3d1)
 - [ ] Task: Conductor - User Manual Verification 'Skill Refinement' (Protocol in workflow.md)
 
 ## Phase 3: Repository Cleanup
