@@ -13,7 +13,7 @@
 - [x] Task: Conductor - User Manual Verification 'Protocol Implementation' (Protocol in workflow.md) (ee17bd2)
 
 ## Phase 3: OpenSkills & AGENTS.md Integration
-- [ ] Task: Initialize `AGENTS.md` with OpenSkills XML tags
+- [x] Task: Initialize `AGENTS.md` with OpenSkills XML tags (38445fb)
 - [ ] Task: Add `openskills sync` instructions to the workflow/skill
 - [ ] Task: Verify skill triggers via a simulated agent request
 - [ ] Task: Conductor - User Manual Verification 'Integration and Final Review' (Protocol in workflow.md)
