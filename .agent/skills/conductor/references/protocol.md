@@ -8,6 +8,7 @@ Before any development, you MUST understand the project's foundation.
 - Read `conductor/tech-stack.md` to identify approved languages and frameworks.
 - Read `conductor/workflow.md` to understand testing and commit requirements.
 - Analyze the existing directory structure to infer architectural patterns.
+- **Reference Templates:** When initializing or updating project context, use the templates located in the skill's `assets/templates/` directory.
 
 ## 2. Specification (Spec)
 A spec defines *what* is being built and *why*. It must include:
