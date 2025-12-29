@@ -4,5 +4,10 @@ This file tracks all major tracks for the project. Each track has its own detail
 
 ---
 
-## [~] Track: Implement the Universal Conductor Agent Skill
+## [x] Track: Implement the Universal Conductor Agent Skill
 *Link: [./conductor/tracks/implement_universal_conductor_skill_20251229/](./conductor/tracks/implement_universal_conductor_skill_20251229/)*
+
+---
+
+## [ ] Track: Complete Universal Skill migration and repository cleanup
+*Link: [./conductor/tracks/migration_cleanup_20251229/](./conductor/tracks/migration_cleanup_20251229/)*
