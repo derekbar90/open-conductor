@@ -31,10 +31,15 @@ To ensure high quality, you MUST follow these four phases for every task:
 
 ## Execution Instructions
 When this skill is activated:
-1. **Verify Context:** Check for the existence of the `conductor/` directory.
-   - If missing, inform the user: "Conductor state not found. Please initialize the project context (e.g., using `/conductor:setup`)."
-   - If present, read `conductor/product.md`, `conductor/tech-stack.md`, and `conductor/workflow.md` to initialize your project context.
-2. **Load Protocol Details:** Read [references/protocol.md](references/protocol.md) for a deep dive into each phase.
+1. **Load Routing Guide:** Read the [Routing & Guides](#routing--guides) section below to determine the correct path.
+2. **Verify Context:** Check for the existence of the `conductor/` directory.
+
+## Routing & Guides
+Depending on the user's intent, refer to the following guides:
+- **Initialization & Setup:** For first-time setup or resuming setup, follow [references/setup_guide.md](references/setup_guide.md).
+- **New Track (Feature/Bug):** To plan a new logical unit of work, follow [references/track_guide.md](references/track_guide.md).
+- **Implementation Loop:** To execute tasks from an existing plan, follow [references/implementation_guide.md](references/implementation_guide.md).
+- **Project Maintenance:** For status reports or git-aware reverts, follow [references/maintenance_guide.md](references/maintenance_guide.md).
 
 ## State Initialization
 You MUST ensure the following files are loaded into your context before performing any implementation tasks:
