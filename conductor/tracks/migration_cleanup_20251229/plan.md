@@ -7,10 +7,10 @@
 - [x] Task: Transcribe `status.toml` and `revert.toml` into `references/maintenance_guide.md` (29fbe58)
 - [x] Task: Conductor - User Manual Verification 'Logic Transcription' (Protocol in workflow.md) (c0f17cd)
 
-## Phase 2: Master Skill Refinement
+## Phase 2: Master Skill Refinement [checkpoint: 30f525d]
 - [x] Task: Update `SKILL.md` with high-level routing to the new guides (201eb2a)
 - [x] Task: Update `protocol.md` to reference assets in `assets/templates/` (522a3d1)
-- [ ] Task: Conductor - User Manual Verification 'Skill Refinement' (Protocol in workflow.md)
+- [x] Task: Conductor - User Manual Verification 'Skill Refinement' (Protocol in workflow.md) (30f525d)
 
 ## Phase 3: Repository Cleanup
 - [ ] Task: Delete legacy `commands/` directory
