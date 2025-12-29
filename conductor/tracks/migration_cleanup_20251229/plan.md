@@ -8,7 +8,7 @@
 - [x] Task: Conductor - User Manual Verification 'Logic Transcription' (Protocol in workflow.md) (c0f17cd)
 
 ## Phase 2: Master Skill Refinement
-- [ ] Task: Update `SKILL.md` with high-level routing to the new guides
+- [x] Task: Update `SKILL.md` with high-level routing to the new guides (201eb2a)
 - [ ] Task: Update `protocol.md` to reference assets in `assets/templates/`
 - [ ] Task: Conductor - User Manual Verification 'Skill Refinement' (Protocol in workflow.md)
 
