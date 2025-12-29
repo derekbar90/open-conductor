@@ -2,7 +2,7 @@
 
 ## Phase 1: Logic Transcription
 - [x] Task: Transcribe `setup.toml` into `references/setup_guide.md` (a96cca9)
-- [ ] Task: Transcribe `newTrack.toml` into `references/track_guide.md`
+- [x] Task: Transcribe `newTrack.toml` into `references/track_guide.md` (cfed944)
 - [ ] Task: Transcribe `implement.toml` into `references/implementation_guide.md`
 - [ ] Task: Transcribe `status.toml` and `revert.toml` into `references/maintenance_guide.md`
 - [ ] Task: Conductor - User Manual Verification 'Logic Transcription' (Protocol in workflow.md)
