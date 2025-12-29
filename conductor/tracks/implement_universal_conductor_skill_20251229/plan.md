@@ -14,6 +14,6 @@
 
 ## Phase 3: OpenSkills & AGENTS.md Integration
 - [x] Task: Initialize `AGENTS.md` with OpenSkills XML tags (38445fb)
-- [ ] Task: Add `openskills sync` instructions to the workflow/skill
+- [x] Task: Add `openskills sync` instructions to the workflow/skill (ef8ca13)
 - [ ] Task: Verify skill triggers via a simulated agent request
 - [ ] Task: Conductor - User Manual Verification 'Integration and Final Review' (Protocol in workflow.md)
