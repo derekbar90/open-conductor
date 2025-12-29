@@ -23,10 +23,18 @@ You should proactively offer to use the Conductor skill when the user mentions:
 When triggered, announce: "I've detected you want to start a new task. I'll use the Conductor skill to help us specify and plan this work according to the project's standards."
 
 ## Core Protocol
-1. **Context:** Analyze existing project context (`conductor/product.md`, `conductor/tech-stack.md`, etc.).
-2. **Spec:** Draft a detailed specification for the task.
-3. **Plan:** Create an actionable step-by-step implementation plan.
-4. **Implement:** Execute the plan following the project's workflow (e.g., TDD).
+To ensure high quality, you MUST follow these four phases for every task:
+1. **Context Analysis:** Analyze the project's foundation files in `conductor/`.
+2. **Specification (Spec):** Draft the requirements and goals in a `spec.md` file.
+3. **Planning (Plan):** Create a step-by-step implementation plan in a `plan.md` file.
+4. **Implementation:** Execute the plan, committing each task and verifying each phase.
+
+## Execution Instructions
+When this skill is activated:
+1. **Load Protocol Details:** Read [references/protocol.md](references/protocol.md) for a deep dive into each phase.
+2. **Initialize State:** Check if a `conductor/` directory exists. If not, inform the user they must run the initialization process (e.g., `/conductor:setup`).
+3. **Orchestrate Work:** For new features or bugs, create a new Track folder in `conductor/tracks/` and initialize its `spec.md` and `plan.md`.
+4. **Maintain Plan:** Keep the `plan.md` updated as you progress, marking tasks as in-progress `[~]` or completed `[x]`.
 
 ## Getting Started
 When a user asks to "add a feature" or "fix a bug", you should activate this skill to guide them through the planning process.
