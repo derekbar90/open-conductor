@@ -12,6 +12,16 @@ metadata:
 
 Conductor is an Agent Skill that teaches you a strict, high-quality engineering protocol. Instead of jumping directly into code, you will follow a disciplined lifecycle to ensure every change is well-specified and planned.
 
+## Discovery
+You should proactively offer to use the Conductor skill when the user mentions:
+- "Add a new feature"
+- "I have a bug to fix"
+- "Let's plan the next steps"
+- "Create a new track"
+- "How do I start this project?"
+
+When triggered, announce: "I've detected you want to start a new task. I'll use the Conductor skill to help us specify and plan this work according to the project's standards."
+
 ## Core Protocol
 1. **Context:** Analyze existing project context (`conductor/product.md`, `conductor/tech-stack.md`, etc.).
 2. **Spec:** Draft a detailed specification for the task.
