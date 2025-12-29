@@ -19,8 +19,26 @@ Usage notes:
 <available_skills>
 
 <skill>
-<name>conductor</name>
-<description>Orchestrates a context-driven engineering protocol (Context -> Spec & Plan -> Implement). Use when starting new features, fixing bugs, or planning project tracks.</description>
+<name>conductor-setup</name>
+<description>Scaffolds the project and sets up the Conductor environment. Use this for project initialization.</description>
+<location>project</location>
+</skill>
+
+<skill>
+<name>conductor-track</name>
+<description>Plans a new track (Feature/Bug), generates spec.md and plan.md, and updates the registry.</description>
+<location>project</location>
+</skill>
+
+<skill>
+<name>conductor-implement</name>
+<description>Executes the tasks defined in a track's plan following the TDD implementation loop.</description>
+<location>project</location>
+</skill>
+
+<skill>
+<name>conductor-maintenance</name>
+<description>Displays project status summaries and manages git-aware reverts of tasks or phases.</description>
 <location>project</location>
 </skill>
 
