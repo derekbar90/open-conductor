@@ -12,8 +12,8 @@
 - [x] Task: Update `protocol.md` to reference assets in `assets/templates/` (522a3d1)
 - [x] Task: Conductor - User Manual Verification 'Skill Refinement' (Protocol in workflow.md) (30f525d)
 
-## Phase 3: Repository Cleanup
+## Phase 3: Repository Cleanup [checkpoint: 2d1395f]
 - [x] Task: Delete legacy `commands/` directory (9e164a0)
 - [x] Task: Delete legacy `gemini-extension.json` (9aafb90)
-- [~] Task: Update `AGENTS.md` and run `openskills sync`
-- [ ] Task: Conductor - User Manual Verification 'Final Cleanup' (Protocol in workflow.md)
+- [x] Task: Update `AGENTS.md` and run `openskills sync` (2d1395f)
+- [x] Task: Conductor - User Manual Verification 'Final Cleanup' (Protocol in workflow.md) (2d1395f)
